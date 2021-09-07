@@ -1,8 +1,7 @@
 # Thomas Maynard
 
-Inline-style: 
-![alt text]((https://user-images.githubusercontent.com/90271276/132383164-af12f1b4-e5e8-43fe-b37e-03362dabb48f.jpg "One Piece Flag")
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+
+[![alt text]((https://user-images.githubusercontent.com/90271276/132383164-af12f1b4-e5e8-43fe-b37e-03362dabb48f.jpg "One Piece Flag")
 
 <d1>
    <body>
